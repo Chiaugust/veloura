@@ -23291,30 +23291,30 @@ function ej() {
     }),
   });
 }
-const ug = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242451/hero-model-DKxVqNF__b6hvf5.png",
-  kr = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242453/wig-1-CxyKTQgK_n6gatn.png",
-  Oa = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242605/wig-2-FZLzVEXm_ouvqjv.png",
-  rx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242604/wig-3-B-y1SFQO_cyqc9v.png",
-  ox = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242463/wig-4-DS7OrOF2_rfcfaz.png",
-  cx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242462/wig-5-B9UmFPa3_cncllr.png",
-  ux = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242463/wig-6-BH6Bt1p2_huhogb.png",
-  fx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242606/wig-7-CywidD7E_li4efw.png",
-  dx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242609/wig-8-DNqzk095_llcpxs.png",
-  mx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242609/wig-9-CRYmUFCr_jz5aji.png",
-  hx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242610/wig-10-8zXRGqC8_prxdtb.png",
-  px = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242436/wig-11-CcfZPZrE_fqvdip.png",
-  gx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242453/wig-12-9VvZar8g_ag6ivv.png",
-  xr = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242465/lace-macro-CydiouNw_bdcttv.png",
-  Du = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242588/customer-1-CSwfnLLO_wzzlbo.png",
-  yx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242438/customer-2-DiO6CYPM_ldtfev.png",
-  xx = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242451/customer-3-7Pbg6YTt_uxnrlj.png",
-  tj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242451/video-melt-CG3g96EO_n5ekvi.png",
-  nj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242595/video-movement-BvqXjSH__se1rs0.png",
-  aj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242454/video-transform-BsOAAIkP_w0ah6c.png",
-  lj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242440/coll-glueless-DhcHBh_O_rkgypz.png",
-  ij = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242594/coll-hd-msf1M5Dt_mkzei7.png",
-  sj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242588/coll-beginner-0yfT6ee5_wdow9b.png",
-  rj = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242585/coll-volume-DG55ZbDA_ll6blx.png";
+const ug = "/assets/hero-model-DKxVqNF_.png",
+  kr = "/assets/wig-1-CxyKTQgK.png",
+  Oa = "/assets/wig-2-FZLzVEXm.png",
+  rx = "/assets/wig-3-B-y1SFQO.png",
+  ox = "/assets/wig-4-DS7OrOF2.png",
+  cx = "/assets/wig-5-B9UmFPa3.png",
+  ux = "/assets/wig-6-BH6Bt1p2.png",
+  fx = "/assets/wig-7-CywidD7E.png",
+  dx = "/assets/wig-8-DNqzk095.png",
+  mx = "/assets/wig-9-CRYmUFCr.png",
+  hx = "/assets/wig-10-8zXRGqC8.png",
+  px = "/assets/wig-11-CcfZPZrE.png",
+  gx = "/assets/wig-12-9VvZar8g.png",
+  xr = "/assets/lace-macro-CydiouNw.png",
+  Du = "/assets/customer-1-CSwfnLLO.png",
+  yx = "/assets/customer-2-DiO6CYPM.png",
+  xx = "/assets/customer-3-7Pbg6YTt.png",
+  tj = "/assets/video-melt-CG3g96EO.png",
+  nj = "/assets/video-movement-BvqXjSH_.png",
+  aj = "/assets/video-transform-BsOAAIkP.png",
+  lj = "/assets/coll-glueless-DhcHBh_O.png",
+  ij = "/assets/coll-hd-msf1M5Dt.png",
+  sj = "/assets/coll-beginner-0yfT6ee5.png",
+  rj = "/assets/coll-volume-DG55ZbDA.png";
 var Lr = "Collapsible",
   [oj, vx] = Ra(Lr),
   [cj, ef] = oj(Lr),
@@ -24793,7 +24793,7 @@ function zj() {
     ],
   });
 }
-const rr = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242594/ugc-1-DOYcDn0b_sxhx41.png";
+const rr = "/assets/ugc-1-DOYcDn0b.png";
 var kj = Symbol.for("react.lazy"),
   br = Sr[" use ".trim().toString()];
 
@@ -27284,7 +27284,7 @@ function aE() {
           "top-0 w-full bg-background/80 backdrop-blur-md border-b border-border/50 transition-transform duration-300 " +
           (h ? "fixed left-0 right-0 translate-y-0 shadow-md" : "sticky"),
         style: {
-          zIndex: 220,
+          zIndex: 80,
         },
         children: u.jsxs("div", {
           className: "max-w-7xl mx-auto px-4 md:px-8",
