@@ -23291,30 +23291,32 @@ function ej() {
     }),
   });
 }
-const ug = "/assets/hero-model-DKxVqNF_.png",
-  kr = "/assets/wig-1-CxyKTQgK.png",
-  Oa = "/assets/wig-2-FZLzVEXm.png",
-  rx = "/assets/wig-3-B-y1SFQO.png",
-  ox = "/assets/wig-4-DS7OrOF2.png",
-  cx = "/assets/wig-5-B9UmFPa3.png",
-  ux = "/assets/wig-6-BH6Bt1p2.png",
-  fx = "/assets/wig-7-CywidD7E.png",
-  dx = "/assets/wig-8-DNqzk095.png",
-  mx = "/assets/wig-9-CRYmUFCr.png",
-  hx = "/assets/wig-10-8zXRGqC8.png",
-  px = "/assets/wig-11-CcfZPZrE.png",
-  gx = "/assets/wig-12-9VvZar8g.png",
-  xr = "/assets/lace-macro-CydiouNw.png",
-  Du = "/assets/customer-1-CSwfnLLO.png",
-  yx = "/assets/customer-2-DiO6CYPM.png",
-  xx = "/assets/customer-3-7Pbg6YTt.png",
-  tj = "/assets/video-melt-CG3g96EO.png",
-  nj = "/assets/video-movement-BvqXjSH_.png",
-  aj = "/assets/video-transform-BsOAAIkP.png",
-  lj = "/assets/coll-glueless-DhcHBh_O.png",
-  ij = "/assets/coll-hd-msf1M5Dt.png",
-  sj = "/assets/coll-beginner-0yfT6ee5.png",
-  rj = "/assets/coll-volume-DG55ZbDA.png";
+const base = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242612/";
+
+const ug = base + "hero-model-DKxVqNF__p6rsuc",
+  kr = base + "wig-1-CxyKTQgK_xtti4o",
+  Oa = base + "wig-2-FZLzVEXm_slbaf0",
+  rx = base + "wig-3-B-y1SFQO_qmohnd",
+  ox = base + "wig-4-DS7OrOF2_y2pwlj",
+  cx = base + "wig-5-B9UmFPa3_r1h8vh",
+  ux = base + "wig-6-BH6Bt1p2_xtmltr",
+  fx = base + "wig-7-CywidD7E_texny6",
+  dx = base + "wig-8-DNqzk095_ytjekp",
+  mx = base + "wig-9-CRYmUFCr_lnwuhr",
+  hx = base + "wig-10-8zXRGqC8_xixse8",
+  px = base + "wig-11-CcfZPZrE_y7d3h7",
+  gx = base + "wig-12-9VvZar8g_ukkjby",
+  xr = base + "lace-macro-CydiouNw_zd5nhe",
+  Du = base + "customer-1-CSwfnLLO_wzzlbo",
+  yx = base + "customer-2-DiO6CYPM_bh3pav",
+  xx = base + "customer-3-7Pbg6YTt_i2np0h",
+  tj = base + "video-melt-CG3g96EO_n5ekvi",
+  nj = base + "video-movement-BvqXjSH__se1rs0",
+  aj = base + "video-transform-BsOAAIkP_w0ah6c",
+  lj = base + "coll-glueless-DhcHBh_O_bdgk25",
+  ij = base + "coll-hd-msf1M5Dt_mkzei7",
+  sj = base + "coll-beginner-0yfT6ee5_wdow9b",
+  rj = base + "coll-volume-DG55ZbDA_ll6blx";
 var Lr = "Collapsible",
   [oj, vx] = Ra(Lr),
   [cj, ef] = oj(Lr),
@@ -24793,7 +24795,7 @@ function zj() {
     ],
   });
 }
-const rr = "/assets/ugc-1-DOYcDn0b.png";
+const rr = "https://res.cloudinary.com/dooiyy0w6/image/upload/q_auto/f_auto/v1777242459/ugc-1-DOYcDn0b_zzxngt.png";
 var kj = Symbol.for("react.lazy"),
   br = Sr[" use ".trim().toString()];
 
